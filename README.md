@@ -1,5 +1,5 @@
-# 💫 About Me:
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Mahdi
+# 💫 About Me:
 🔭 I'm computer engineering student<br>🌱 I'm interested in learning everything about computer world!<br>
 
 # 💻 Tech Stack:
